@@ -1,0 +1,10 @@
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:18:18:virtual void ModelListener::clockUpdate(uint8_t, uint8_t, uint8_t)	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:19:18:virtual void ModelListener::updateCurrent1(uint16_t)	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:20:18:virtual void ModelListener::sdStatusUpdate(bool)	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:21:18:virtual void ModelListener::sdMsgTxtUpdate(char*)	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:22:18:virtual void ModelListener::fileListUpdate(char*, int)	0	static
+../../TouchGFX/gui/include/gui/settingscreen_screen/SettingScreenPresenter.hpp:28:13:SettingScreenPresenter::~SettingScreenPresenter()	0	static
+D:/GUI_APP/Widgets_V1.04/TouchGFX/gui/src/settingscreen_screen/SettingScreenPresenter.cpp:10:6:virtual void SettingScreenPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/settingscreen_screen/SettingScreenPresenter.hpp:28:13:virtual SettingScreenPresenter::~SettingScreenPresenter()	8	static
+../../TouchGFX/gui/include/gui/settingscreen_screen/SettingScreenPresenter.hpp:28:13:virtual void* SettingScreenPresenter::_ZThn4_N22SettingScreenPresenterD1Ev()	0	static
+D:/GUI_APP/Widgets_V1.04/TouchGFX/gui/src/settingscreen_screen/SettingScreenPresenter.cpp:4:1:SettingScreenPresenter::SettingScreenPresenter(SettingScreenView&)	8	static

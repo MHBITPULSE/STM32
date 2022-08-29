@@ -1,0 +1,2 @@
+D:/GUI_APP/Widgets_V1.02/TouchGFX/generated/images/src/BitmapDatabase.cpp:43:37:const touchgfx::Bitmap::BitmapData* BitmapDatabase::getInstance()	0	static
+D:/GUI_APP/Widgets_V1.02/TouchGFX/generated/images/src/BitmapDatabase.cpp:48:10:uint16_t BitmapDatabase::getInstanceSize()	0	static

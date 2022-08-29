@@ -1,0 +1,10 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+../../TouchGFX/gui/include/gui/screen1_screen/Screen1View.hpp:11:13:Screen1View::~Screen1View()	0	static
+D:/GUI_APP/Widgets_V1.02/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:17:6:virtual void Screen1View::tearDownScreen()	0	static
+D:/GUI_APP/Widgets_V1.02/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:10:6:virtual void Screen1View::setupScreen()	8	static
+D:/GUI_APP/Widgets_V1.02/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:22:6:virtual void Screen1View::clockUpdate(uint8_t, uint8_t, uint8_t)	0	static
+../../TouchGFX/gui/include/gui/screen1_screen/Screen1View.hpp:11:13:virtual Screen1View::~Screen1View()	8	static
+D:/GUI_APP/Widgets_V1.02/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:27:6:virtual void Screen1View::sdStatusUpdate(bool)	32	static
+D:/GUI_APP/Widgets_V1.02/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:5:1:Screen1View::Screen1View()	8	static

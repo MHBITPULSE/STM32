@@ -1,0 +1,1 @@
+V1.03 is about scanning the files in sd card and show them in a screen.

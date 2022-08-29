@@ -1,0 +1,10 @@
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:18:18:virtual void ModelListener::clockUpdate(uint8_t, uint8_t, uint8_t)	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:20:18:virtual void ModelListener::sdStatusUpdate(bool)	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:21:18:virtual void ModelListener::sdMsgTxtUpdate(char*)	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:22:18:virtual void ModelListener::fileListUpdate(char*, int)	0	static
+../../TouchGFX/gui/include/gui/measurementscreen_screen/MeasurementScreenPresenter.hpp:28:13:MeasurementScreenPresenter::~MeasurementScreenPresenter()	0	static
+D:/GUI_APP/Widgets_V1.04/TouchGFX/gui/src/measurementscreen_screen/MeasurementScreenPresenter.cpp:10:6:virtual void MeasurementScreenPresenter::activate()	0	static
+D:/GUI_APP/Widgets_V1.04/TouchGFX/gui/src/measurementscreen_screen/MeasurementScreenPresenter.cpp:20:6:virtual void MeasurementScreenPresenter::updateCurrent1(uint16_t)	0	static
+../../TouchGFX/gui/include/gui/measurementscreen_screen/MeasurementScreenPresenter.hpp:28:13:virtual MeasurementScreenPresenter::~MeasurementScreenPresenter()	8	static
+../../TouchGFX/gui/include/gui/measurementscreen_screen/MeasurementScreenPresenter.hpp:28:13:virtual void* MeasurementScreenPresenter::_ZThn4_N26MeasurementScreenPresenterD1Ev()	0	static
+D:/GUI_APP/Widgets_V1.04/TouchGFX/gui/src/measurementscreen_screen/MeasurementScreenPresenter.cpp:4:1:MeasurementScreenPresenter::MeasurementScreenPresenter(MeasurementScreenView&)	8	static
